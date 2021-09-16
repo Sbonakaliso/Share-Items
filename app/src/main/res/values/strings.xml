@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Share Items</string>
+    <string name="record_button">This is a button for recording audio</string>
+    <string name="play_button">This is a button for playing audio</string>
+    <string name="app_description"><!--b>The App:</b><br/> This is app for sharing old items that you want to sell. <br/>
+        You take a photo of the item, record a voice description thereof and share it with your friends.<br/-->
+        Uses: <b>Microphone, Speaker and Camera features</b> and shows a banner ad
+    </string>
+</resources>

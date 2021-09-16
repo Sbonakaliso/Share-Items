@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="circle_btn">
+        <item name="android:background">@drawable/circle_btn_interactive</item>
+        <item name="android:tint">@color/white</item>
+    </style>
+    <!--style name="circle_btn_outline">
+        <item name="android:background">@drawable/circle_btn_outline</item>
+        <item name="android:tint">@color/black</item>
+    </style-->
+</resources>
